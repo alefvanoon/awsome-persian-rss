@@ -4,6 +4,6 @@
 - [پوریا ناظمی](https://pourianazemi.com/feed/)
 - [مموری لیکز](https://memoryleaks.ir/feed//)
 - [سحر شاکر](https://saharshaker.com/feed/)
-- [اجادی میرمیرانی](https://jadi.net/feed/)
+- [جادی میرمیرانی](https://jadi.net/feed/)
 
 </div>
